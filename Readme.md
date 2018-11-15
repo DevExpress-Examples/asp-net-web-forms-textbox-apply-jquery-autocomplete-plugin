@@ -1,3 +1,11 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[ControlEvents.aspx](./CS/ControlEvents.aspx) (VB: [ControlEvents.aspx](./VB/ControlEvents.aspx))**
+* [Default.aspx](./CS/Default.aspx) (VB: [Default.aspx](./VB/Default.aspx))
+* [GlobalEvents.aspx](./CS/GlobalEvents.aspx) (VB: [GlobalEvents.aspx](./VB/GlobalEvents.aspx))
+* [AutoCompleteStyles.css](./CS/Styles/AutoCompleteStyles.css)
+<!-- default file list end -->
 # ASPxTextBox - How to attach the jQuery AutoComplete plugin
 
 
