@@ -4,9 +4,6 @@
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
 # Text Box for ASP.NET Web Forms - How to apply the jQuery AutoComplete plugin to an editor
-<!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/128531050/)**
-<!-- run online end -->
 
 This example demonstrates how to apply the jQuery `AutoComplete` plugin to a text box editor.
 
